@@ -17,8 +17,9 @@ I am currently diving deep into spring boot . I'm always eager to learn and stay
 
 ## 📜 Experience
 
-- [Previous Job/Project 1]: Description of your role and achievements.
-- [Previous Job/Project 2]: Description of your role and achievements.
+- 🔭 I’m currently working on Valeo as software engineering
+- Intern at Orange Digital Center : Participated in a summer program focused on Flutter app development
+                                    Successfully implemented and delivered a Flutter application for Orange, providing users with real-time information about Orange offers. 
 
 ## 🤝 Let's Connect
 
